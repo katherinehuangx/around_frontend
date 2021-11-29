@@ -27,6 +27,7 @@ home - video tab
 
 #### 4. Search Posts
 The default search option is "All" and all posts will show.
+
 search by keyword
 ![search1](images/search_by_keyword.PNG)
 search by keyword warning when the keyword is missing
